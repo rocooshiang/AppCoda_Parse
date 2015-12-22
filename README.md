@@ -2,8 +2,4 @@
 
 Demo login feature ,  use Parse
 
-Reference:
-
-      AppCoda中文
-
-      http://www.appcoda.com.tw/login-signup-parse-swift/
+**Reference**:[AppCoda中文](http://www.appcoda.com.tw/login-signup-parse-swift/)
