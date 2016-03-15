@@ -9,4 +9,4 @@ Screenshot :
 
 Reference :
 ------------
-[AppCoda中文](http://www.appcoda.com.tw/login-signup-parse-swift/)
+[AppCoda中文: 使用 Parse 建立註冊和登入的功能](http://www.appcoda.com.tw/login-signup-parse-swift/)
